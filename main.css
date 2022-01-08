@@ -1,0 +1,15 @@
+body  {
+    background-color: lightseagreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.img-parent  {
+    display: block;
+    width: 20%;
+    height: 20%;
+    margin:auto
+}
+h1,h2 {
+    text-align: center;
+    text-shadow: maroon;
+    
+}
