@@ -2,7 +2,7 @@ body  {
     background-color: lightseagreen;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-.img-parent  {
+img{
     display: block;
     width: 20%;
     height: 20%;
